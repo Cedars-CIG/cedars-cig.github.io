@@ -1,2 +1,1 @@
-# cedars-cig.github.io
-Cedars CIG Website
+Cedars CIG Website (TBA)
